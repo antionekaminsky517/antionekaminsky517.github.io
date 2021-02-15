@@ -1,0 +1,50 @@
+
+
+		form
+		{
+		}
+
+			form .select
+			{
+			}
+
+					form .select:before
+					{
+						display: none;
+					}
+
+
+	.main
+	{
+	}
+
+		.main > .content
+		{
+		}
+
+		.main > .content.style1
+		{
+			background:	url('bgtr.svg') top right no-repeat,
+						url('bgbl.svg') bottom left no-repeat,
+						url('bgbl.svg') bottom left no-repeat,
+						url('overlay.png'),
+						url('content-style1.svg');
+		}
+
+		.main > .content.style2
+		{
+			background:	url('bgtr.svg') top right no-repeat,
+						url('bgbl.svg') bottom left no-repeat,
+						url('bgbl.svg') bottom left no-repeat,
+						url('overlay.png'),
+						url('content-style2.svg');
+		}
+
+		.main > .content.style3
+		{
+			background:	url('bgtr.svg') top right no-repeat,
+						url('bgbl.svg') bottom left no-repeat,
+						url('bgbl.svg') bottom left no-repeat,
+						url('overlay.png'),
+						url('content-style3.svg');
+		}
